@@ -1,22 +1,17 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> The items listed here will prepare you well for in an interview at just about any software company,
-> including the giants: Amazon, Facebook, Google or Microsoft.
->
-> *Best of luck to you!*
+> 最初，我建立這個清單是為了成為一名軟體工程師，但它已經成長為現在你看到一長串的列表了。在完成這些列表的項目後，[我被 Amazon 雇用為一名軟體工程師](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)。你可能不需要像我一樣學習這一大堆項目，但無論如何，你需要的一切都在這裡了。這裡列出的項目可以幫助你在幾乎任何軟體公司的面試中做好準備，包含 Amazon、Facebook、Google 或 Microsoft 等巨頭。
 
-Translations:
+> *祝你好運！*
+
+
+翻譯版本：
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
 - [Español](translations/README-es.md)
 - [Português Brasileiro](translations/README-ptbr.md)
 
-Translations in progress:
+正在進行翻譯中的版本：
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
 - [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
@@ -35,20 +30,17 @@ Translations in progress:
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
 
-## What is it?
+## 這是什麼？
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+這是我從一名 Web 開發者 (自學、非 CS 相關科系) 到大公司軟體工程師所制定數個月的學習計畫。
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This is meant for **new software engineers** or those switching from
-software/web development to software engineering (where computer science knowledge is required). If you have
-many years of experience and are claiming many years of software engineering experience, expect a harder interview.
+這些項目是給**新進的軟體工程師**，或那些想要從軟體/Web 開發轉向軟體工程的人 (需要計算機科學的相關知識) 進行學習。如果你已經有多年的工作經驗，並宣稱擁有數年的軟體工程經驗，且想要挑戰更困難的面試項目，本列表也相當適合你。
 
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
+如果你有多年軟體/Web 開發經驗，請注意，這些大型的軟體公司，像是 Google、Amazon、Facebook 或 Microsoft 所認知的軟體工程和一般的軟體/Web 開發不同，他們需要計算機科學的相關知識。
 
-If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
+如果你想要成為一名可靠性工程師或維運工程師，請從列表中選擇對應的項目進行學習(網路或資訊安全等)。
 
 ---
 
