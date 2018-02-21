@@ -48,7 +48,7 @@
 
 - [這是什麼？](#這是什麼？)
 - [為什麼需要這個專案？](#為什麼需要這個專案？)
-- [How to use it](#how-to-use-it)
+- [如何使用這個專案進行學習？](#如何使用這個專案進行學習？)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
@@ -168,13 +168,15 @@
 
 這是一個長期的計畫，他會花你數個月的時間。如果你已經很熟悉這些內容了，花的時間就少多了。
 
-## How to use it
+## 如何使用這個專案進行學習？
 
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+底下的每個項目都是一個大綱，你應該要從上到下的學習每個內容。
+
+我會使用 Github 專門的 markdown flavor 語法來確認我每個項目的進度。 
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+**建立一個新的分支，你就可以像這樣來檢查學習的進度。只要在方括號中打一個 x 即可： [x]**
 
 
     Fork a branch and follow the commands below
@@ -195,7 +197,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git push --force `
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[瞭解更多關於 Github-flavored markdown 語法](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
