@@ -50,7 +50,7 @@
 - [為什麼需要這個專案？](#為什麼需要這個專案？)
 - [如何使用這個專案進行學習？](#如何使用這個專案進行學習？)
 - [不要覺得自己不夠聰明](#不要覺得自己不夠聰明)
-- [About Video Resources](#about-video-resources)
+- [相關影片資源](#相關影片資源)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
@@ -205,13 +205,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [程式設計師在就業中所面臨的隱性問題](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [相信你可以改變](http://www.aaronsw.com/weblog/dweck)
 
-## About Video Resources
+## 相關影片資源
 
-Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
+部分影片需要在 Coursera、Edx 或 Lynda.com 等 MOOCs 網站註冊才能觀看。
 
-    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
-    I like using university lectures.
+某些課程只在特定時段開放，所以即使該課程免費，你也不一定能觀看。而 Lynda.com 上的課程是要付費的。
+
+    我會相當感謝您隨時增加免費的影片資源，例如 Youtube 上相關的影片。
+    我也喜歡閱讀某些大學的教學資源。 
 
 
 ## Interview Process & General Interview Prep
