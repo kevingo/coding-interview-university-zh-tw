@@ -49,7 +49,7 @@
 - [這是什麼？](#這是什麼？)
 - [為什麼需要這個專案？](#為什麼需要這個專案？)
 - [如何使用這個專案進行學習？](#如何使用這個專案進行學習？)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [不要覺得自己不夠聰明](#不要覺得自己不夠聰明)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
@@ -199,11 +199,11 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [瞭解更多關於 Github-flavored markdown 語法](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Don't feel you aren't smart enough
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-- [Believe you can change](http://www.aaronsw.com/weblog/dweck)
+## 不要覺得自己不夠聰明
+- 成功的軟體工程師是聰明的，但即使如此，他們還是會擔心自己不夠好。
+- [優秀程式設計師的神話](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [程式設計師在就業中所面臨的隱性問題](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [相信你可以改變](http://www.aaronsw.com/weblog/dweck)
 
 ## About Video Resources
 
