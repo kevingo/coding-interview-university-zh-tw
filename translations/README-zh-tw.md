@@ -51,8 +51,8 @@
 - [如何使用這個專案進行學習？](#如何使用這個專案進行學習？)
 - [不要覺得自己不夠聰明](#不要覺得自己不夠聰明)
 - [相關影片資源](#相關影片資源)
-- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
+- [面試流程 & 一般面試準備方法](#面試流程-&-一般面試準備方法)
+- [學習一個主要的程式語言來進行面試](#學習一個主要的程式語言來進行面試)
 - [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
@@ -233,28 +233,28 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [使用 Python 學習資料結構、演算法以及如何面試 (付費課程)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - 以 Python 為主要語言來準備面試，內容涵蓋資料結構、演算法以及模擬面試等。
 
-## Pick One Language for the Interview
+## 學習一個主要的程式語言來進行面試
 
-You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
+你可以選擇一個你最熟悉的語言來進行面試中的程式部分，不過對於大公司來說，底下三種是相對安全的選擇：
 
 - C++
 - Java
 - Python
 
-You could also use these, but read around first. There may be caveats:
+你也可以使用底下兩種程式語言，不過要先確認一下相關文件，可能會有一些本質上的差異：
 
 - JavaScript
 - Ruby
 
-You need to be very comfortable in the language and be knowledgeable.
+你需要對於你所選擇的程式語言感到十分自信且有足夠的知識。
 
-Read more about choices:
+閱讀更多關於如何選擇程式語言的資訊：
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-[See language resources here](programming-language-resources.md)
+[查看關於程式語言的相關資源](programming-language-resources.md)
 
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
+你會在底下看到一些關於 C、C++ 和 Python 的學習資源，因為我正在學習他們。這當中也包含了一些書籍資源，詳細可以查看下方部分。
 
 ## Book List
 
