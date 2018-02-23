@@ -215,23 +215,23 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     我也喜歡閱讀某些大學的教學資源。 
 
 
-## Interview Process & General Interview Prep
+## 面試流程 & 一般面試準備方法
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [ ] [ABC：始終保持寫程式的習慣](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [ ] [白板題面試](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [ ] [有效地使用白板題面試程式設計師](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [ ] [揭開技術面試的神秘面紗](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] 破解程式面試 Part 1：
+    - [ ] [Gayle L McDowell - 破解程式面試 (影片)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [ ] [跟著 Gayle Laakmann McDowell (影片) 一起破解程式面試](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [ ] 如何得到科技業四巨頭 (譯註：Amazon、Facebook、Google、Microsoft) 的工作：
+    - [ ] [如何得到 Amazon、Facebook、Google 或 Microsoft 的工作 (影片)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
-- [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
-        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
-        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+- [ ] 準備課程：
+    - [ ] [軟體工程師面試解答 (付費課程) ](https://www.udemy.com/software-engineer-interview-unleashed):
+        - 從 Google 前面試官中學習如何學習接受面試。
+    - [ ] [使用 Python 學習資料結構、演算法以及如何面試 (付費課程)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+        - 以 Python 為主要語言來準備面試，內容涵蓋資料結構、演算法以及模擬面試等。
 
 ## Pick One Language for the Interview
 
