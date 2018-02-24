@@ -276,14 +276,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
-### Computer Architecture
+### 電腦架構
 
-If short on time:
+如果你沒有很多時間，參考以下書籍：
 
-- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
-    - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
-    - The author invented HLA, so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
-    - These chapters are worth the read to give you a nice foundation:
+- [ ] [程式語言卓越之道 (第一本)：瞭解電腦](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+    - 這本書是 2004 年出版的，也許有些過時了，但他是瞭解電腦架構一本不可或缺的好書
+    - 本書作者發明了 HLA (High Level Assembly)，因此對於 HLA 會多有著墨，雖然 HLA 並沒有被廣泛使用，但也提供了一些範例來讓你了解 assembly 大致的樣貌。
+    - 這些章節值得一讀，他們會帶給你很好的基礎知識：
         - Chapter 2 - Numeric Representation
         - Chapter 3 - Binary Arithmetic and Bit Operations
         - Chapter 4 - Floating-Point Representation
@@ -294,10 +294,10 @@ If short on time:
         - Chapter 10 - Instruction Set Architecture
         - Chapter 11 - Memory Architecture and Organization
 
-If you have more time (I want this book):
+如果你有更多時間 (我想要推薦這本書)：
 
-- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
-    - For a richer, more up-to-date (2011), but longer treatment
+- [ ] [電腦架構。第五版：一個定量方法](https://www.amazon.com/dp/012383872X/)
+    - 內容更為豐富，年代也比較新 (2011)。但需要更多時間來吸收。
 
 ### Language Specific
 
