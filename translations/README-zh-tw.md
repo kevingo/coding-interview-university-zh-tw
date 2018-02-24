@@ -256,23 +256,23 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 你會在底下看到一些關於 C、C++ 和 Python 的學習資源，因為我正在學習他們。這當中也包含了一些書籍資源，詳細可以查看下方部分。
 
-## Book List
+## 書籍清單
 
-This is a shorter list than what I used. This is abbreviated to save you time.
+這是一份比我使用到的書籍還少的清單，將會節省你一些尋找的時間。
 
-### Interview Prep
+### 面試準備
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-    - answers in C++ and Java
-    - this is a good warm-up for Cracking the Coding Interview
-    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - answers in Java
+- [ ] [程式語言破解：登陸下一份工作的秘密。第二版](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+    - 此書使用 C++ 和 Java
+    - 這本書對於程式語言面試來說是很好的開始
+    - 書本內容並不會太難，大多數的問題可能還會比你在面試中遇到的問題還簡單(從我閱讀來的心得)
+- [ ] [破解程式免試。第六版](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+    - 此書使用 Java
 
-If you have tons of extra time:
+如果你還有很多時間，可以參考以下書籍：
 
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] Elements of Programming Interviews (Java version)
+- [ ] [程式語言面試的元素 (C++ 版本)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [ ] 程式語言面試的元素 (Java 版本)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
