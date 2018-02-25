@@ -299,7 +299,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [電腦架構。第五版：一個定量方法](https://www.amazon.com/dp/012383872X/)
     - 內容更為豐富，年代也比較新 (2011)。但需要更多時間來吸收。
 
-### 程式語言相關
+### 程式語言相關資源
 
 **你必須要為你的面試選擇一個語言 (詳見上述內容).** 底下是我建議的程式語言，我並沒有所有程式語言的相關資源，歡迎大家補充。
 
@@ -310,12 +310,12 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ### C++
 
-I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
+我沒有讀過這兩本書，但它們具有高度的評價，同時是由 Sedgewick 所撰寫，他可是一位大師級人物。
 
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+- [ ] [C++ 演算法。第 1 ~ 4 部曲。基礎、資料結構、排序及搜尋](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
+- [ ] [C++ 演算法第五部，圖形演算法](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
-If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
+如果你對於 C++ 有更好的書籍資源，請讓我知道，期待更多更完整的資源。
 
 ### Java
 
