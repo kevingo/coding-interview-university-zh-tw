@@ -299,14 +299,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [電腦架構。第五版：一個定量方法](https://www.amazon.com/dp/012383872X/)
     - 內容更為豐富，年代也比較新 (2011)。但需要更多時間來吸收。
 
-### Language Specific
+### 程式語言相關
 
-**You need to choose a language for the interview (see above).** Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
+**你必須要為你的面試選擇一個語言 (詳見上述內容).** 底下是我建議的程式語言，我並沒有所有程式語言的相關資源，歡迎大家補充。
 
-If you read though one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
-**You can skip all the video lectures in this project**, unless you'd like a review.
+如果你開始閱讀其中一項，你應該要具備解決程式語言問題所需要的資料結構和演算法相關知識。
+**你可以跳過本專案所有關於影片中的投影片講義**，除非你有興趣去閱讀它們。
 
-[Additional language-specific resources here.](programming-language-resources.md)
+[其他程式語言相關資源](programming-language-resources.md)
 
 ### C++
 
