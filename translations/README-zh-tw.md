@@ -333,11 +333,11 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ### Python
 
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-    - by Goodrich, Tamassia, Goldwasser
-    - I loved this book. It covered everything and more.
-    - Pythonic code
-    - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
+- [ ] [資料結構及演算法，使用 Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+    - 作者為 Goodrich、Tamassia 和 Goldwasser
+    - 我愛這本書，幾乎涵蓋了所有的範圍
+    - 很 "Python" 的程式碼
+    - 看看我對於此書的介紹：[https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/](https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/)
 
 
 ### Optional Books
