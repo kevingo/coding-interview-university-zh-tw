@@ -319,17 +319,17 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ### Java
 
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
-    - videos with book content (and Sedgewick!):
+- [ ] [演算法 (作者為 Sedgewick 和 Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+    - 本書的相關影片 (講師是 Sedgewick！):
         - [Algorithms I](https://www.youtube.com/user/algorithmscourses/playlists?view=50&sort=dd&shelf_id=2)
         - [Algorithms II](https://www.youtube.com/user/algorithmscourses/playlists?shelf_id=3&view=50&sort=dd)
 
-OR:
+或是以下內容：
 
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
-    - by Goodrich, Tamassia, Goldwasser
-    - used as optional text for CS intro course at UC Berkeley
-    - see my book report on the Python version below. This book covers the same topics.
+- [ ] [資料結構及演算法，使用 Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+    - 作者為 Goodrich、Tamassia 和 Goldwasser
+    - 本書為 UC Berkeley CS 課程的選修閱讀教材
+    - 你可以看看底下的 Python 版本介紹，這本書涵蓋相同的主題。
 
 ### Python
 
