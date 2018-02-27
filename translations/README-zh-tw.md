@@ -340,43 +340,42 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - 看看我對於此書的介紹：[https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/](https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/)
 
 
-### Optional Books
+### 選擇性閱讀
 
-**Some people recommend these, but I think it's going overboard, unless you have many years of software engineering experience and expect a much harder interview:**
+**有些人推薦了底下的書籍，不過除非你有好幾年的經驗，或是預期會有更艱難的面試問題，不然可能負擔太大了：**
 
-- [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
-    - As a review and problem recognition
-    - The algorithm catalog portion is well beyond the scope of difficulty you'll get in an interview.
-    - This book has 2 parts:
-        - class textbook on data structures and algorithms
-            - pros:
-                - is a good review as any algorithms textbook would be
-                - nice stories from his experiences solving problems in industry and academia
-                - code examples in C
-            - cons:
-                - can be as dense or impenetrable as CLRS, and in some cases, CLRS may be a better alternative for some subjects
-                - chapters 7, 8, 9 can be painful to try to follow, as some items are not explained well or require more brain than I have
-                - don't get me wrong: I like Skiena, his teaching style, and mannerisms, but I may not be Stony Brook material.
-        - algorithm catalog:
-            - this is the real reason you buy this book.
-            - about to get to this part. Will update here once I've made my way through it.
-    - Can rent it on kindle
-    - Answers:
-        - [Solutions](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
-        - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
-    - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
+- [ ] [演算法設計手冊](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
+    - 本書可做為對演算法的複習以及相關問題的認識
+    - 本書所涵蓋的演算法問題會遠遠超過你在面試時所遇到的問題難度
+    - 本書包含兩部分：
+        - 資料結構與演算法
+            - 優點：
+                - 就像許多書籍一樣，詳細的描述了演算法的部分
+                - 作者提供了很好的經驗關於他如何使用演算法來解決業界及學術界中的問題
+                - 使用 C 
+            - 缺點：
+                - 對於某些人來說，這本書可能和 CLRS 一樣艱難，而某些章節可能 CLRS 更好閱讀 (譯註：CLRS 是 [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) 的縮寫)
+                - 7、8、9 三個章節相當難理解，某些項目並沒有解釋的很清楚，或是你可能需要比我還聰明的腦袋來理解相關內容
+                - 別誤會，我喜歡 Skiena 的書籍，喜歡他教學的方式，但我可能沒有習慣 Stony Brook 大學的教學方式
+        - 演算法：
+            - 這是你購買這本書的真正原因
+            - 我還沒完成這部分，一旦完成我會在這邊更新相關內容
+    - 你也可以在 Kindle 上面租借這本書
+    - 相關文題解答：
+        - [答案](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
+        - [答案](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
+    - [勘誤表](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
 
-- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-    - **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently.
-    - aka CLR, sometimes CLRS, because Stein was late to the game
+- [ ] [演算法介紹](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+    - **重要：** 閱讀這本書只會帶給你有限的價值。這本書對資料結構和演算法同樣有很詳盡的介紹，但它不會教你怎麼撰寫好的程式碼。你還是必須要能夠撰寫有效率地解決方案
+    - 這本書又名 CLR，或有時候會稱為 CLRS (因為 Stein 是比較慢才加入這本書的作者群)。
 
-- [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
-    - The first couple of chapters present clever solutions to programming problems (some very old using data tape) but
-      that is just an intro. This a guidebook on program design and architecture, much like Code Complete, but much shorter.
+- [ ] [程式語言珠璣](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+    - 前幾章針對一些程式問題 (某些問題已經很老了，甚至用到了磁帶) 提供了精巧的解答，但這只是本書的一小部分。這本書介紹了程式語言設計和架構，更像 Code Complete 這樣的書籍，但頁數沒有這麼厚。
 
-- ~~"Algorithms and Programming: Problems and Solutions" by Shen~~
-    - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results.
-    - Would rather spend time on coding problems from another book or online coding problems.
+- ~~"演算法和程式語言：問題與解答"，作者為 Shen
+    - 這是一本好書，但在學習了一些內容後，我對於 Pascal 感到沮喪，包括它的 do while 迴圈、一維陣列和不清楚的後置條件滿足情況
+    - 我會寧願把時間花在其他書本的程式問題，或是相關線上程式問題上
 
 
 ## Before you Get Started
