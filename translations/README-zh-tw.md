@@ -378,22 +378,19 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - 我會寧願把時間花在其他書本的程式問題，或是相關線上程式問題上
 
 
-## Before you Get Started
+## 在你開始學習之前
 
-This list grew over many months, and yes, it kind of got out of hand.
+這份清單在這幾個月內增長許多，是的，他有點失控了。
 
-Here are some mistakes I made so you'll have a better experience.
+這是我犯的一些錯誤，而你可以有更好的學習方式。
 
-### 1. You Won't Remember it All
+### 1. 你不需要記得全部內容
 
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-through my notes and making flashcards so I could review.
+我看了數小時的影片，並且記下了豐富的筆記，而在數個月後，我仍然記憶猶新。我花了三天來整理這些內容，並且製作了學習單字卡以便我可以經常複習。
 
-Read please so you won't make my mistakes:
+請閱讀這篇文章，你就不會和我犯下一樣的錯誤：[保存你自己的電腦相關知識](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
-
-### 2. Use Flashcards
+### 2. 使用學習單字卡 (Flashcard)
 
 To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
 Each card has different formatting.
