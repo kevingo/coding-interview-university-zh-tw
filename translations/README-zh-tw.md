@@ -392,27 +392,23 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ### 2. 使用學習單字卡 (Flashcard)
 
-To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
-Each card has different formatting.
+為了學習如何解決問題，我做了簡單的學習單字卡網站，而我可以增加兩種類型的學習單字卡：一般性問題和程式問題。每一種單字卡有不同的格式。
 
-I made a mobile-first website so I could review on my phone and tablet, wherever I am.
+我先做了行動版的網站，這樣我無論在哪裡都可以用我的手機或平板來複習。
 
-Make your own for free:
+你也可以自己免費建立屬於自己的學習單字卡網站：
 
-- [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
-- [My flash cards database (old - 1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db):
-- [My flash cards database (new - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db):
+- [學習單字卡專案](https://github.com/jwasham/computer-science-flash-cards)
+- [我的學習單字卡專案(舊的 - 1200 張學習單字卡)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db):
+- [我的學習單字卡專案 (新的 - 1800 張學習單字卡)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db):
 
-Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. It's way too much for what's required.
+請注意，我紀錄的學習單字卡已經太多了，從 assembly 程式語言到 Python 的細碎項目，一直到機器學習或統計學等內容。已遠遠超過我所需要的部分。
 
-**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the
-same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
-your brain.
+**使用學習單字卡的注意事項：** 當你第一次看到學習單字卡，並覺得你知道答案時，請不要將其標註為已知。你必須要重複看到幾次題目且都可以正確回答。重複將這些重要的知識放到你的腦袋深處中。
 
-An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember.
-It's user-friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
+另一種使用我的學習單字卡的方式是透過 [Anki](http://ankisrs.net/)，這個網站已經多次被推薦。他透過重複的機制來幫助你記憶，操作上很直覺，各種平台上都可以使用，並且具有雲端同步的功能。在 iOS 上需要 25 美金，但其他平台是免費的。
 
-My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
+你可以在這裡取得我的 Anki 格式的學習單字卡：[https://ankiweb.net/shared/info/25173560](https://ankiweb.net/shared/info/25173560) (感謝 [@xiewenya](https://github.com/xiewenya))
 
 ### 3. Review, review, review
 
