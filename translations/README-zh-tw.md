@@ -410,11 +410,11 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 你可以在這裡取得我的 Anki 格式的學習單字卡：[https://ankiweb.net/shared/info/25173560](https://ankiweb.net/shared/info/25173560) (感謝 [@xiewenya](https://github.com/xiewenya))
 
-### 3. Review, review, review
+### 3. 複習、複習、複習
 
-I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
+我隨時攜帶一系列的 cheatsheet，例如：ASCII、OSI 框架、Big-O notation 等等，在我空閒的時候就可以複習。
 
-Take a break from programming problems for a half hour and go through your flashcards.
+在你暫時離開程式問題的短暫休息時間時，就可以看看這些學習單字卡。
 
 ### 4. Focus
 
