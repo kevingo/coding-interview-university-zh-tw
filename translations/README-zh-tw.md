@@ -420,13 +420,13 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 有許多事情都會使你分心，浪費了你寶貴的時間。學著專心與專注是很困難的。
 
-## What you won't see covered
+## 在這個專案中你不會看到的內容
 
-These are prevalent technologies but not part of this study plan:
+底下是一些流行的技術，但不在我的這一份學習計畫中：
 
 - SQL
 - Javascript
-- HTML, CSS, and other front-end technologies
+- HTML、CSS 和其他前端技術
 
 ## The Daily Plan
 
