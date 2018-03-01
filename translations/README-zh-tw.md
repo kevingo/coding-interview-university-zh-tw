@@ -416,9 +416,9 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 在你暫時離開程式問題的短暫休息時間時，就可以看看這些學習單字卡。
 
-### 4. Focus
+### 4. 專心
 
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard.
+有許多事情都會使你分心，浪費了你寶貴的時間。學著專心與專注是很困難的。
 
 ## What you won't see covered
 
