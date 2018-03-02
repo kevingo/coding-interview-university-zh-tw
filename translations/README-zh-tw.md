@@ -428,35 +428,36 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - Javascript
 - HTML、CSS 和其他前端技術
 
-## The Daily Plan
+## 每日學習計畫
 
-Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
+某些主題會花你一整天，某些甚至需要數天以上。而某些內容只需要閱讀而不需要實作。
 
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-- C - using structs and functions that take a struct * and something else as args.
-- C++ - without using built-in types
-- C++ - using built-in types, like STL's std::list for a linked list
-- Python - using built-in types (to keep practicing Python)
-- and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-- You may do Java or something else, this is just my thing.
+每一天我會從下面挑一個主題，觀看該主題的影片，並且進行以下實作部分：
 
-You don't need all these. You need only [one language for the interview](#pick-one-language-for-the-interview).
+- C - 使用 structs 和函式。該函式會接收一個 struct pointer 和其他內容當成參數
+- C++ - 不使用內建的資料型態
+- C++ - 使用內建的資料型態，像是利用 STL 的 std::list 來實作 linked list
+- Python - 使用內建的型態 (來持續練習 Python)
+- 同時我會撰寫測試，以確保我做的事情是對的。某些時候只需要使用簡單的 assert() 語句即可
+- 你可以會想要學習 Java 或其他語言，這裡僅列出我學習的部分
 
-Why code in all of these?
-- Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
-- Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
-- Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
+你不需要全部都做，你只需要 [學習一個主要的程式語言來進行面試](#學習一個主要的程式語言來進行面試)。
 
-I may not have time to do all of these for every subject, but I'll try.
+為什麼要在這些程式語言上都練習一次？
+- 練習、練習再練習，直到我對於它們再熟悉不過，並且可以完美的實作出來。(某些情況下可能會有一些邊緣條件沒有考慮到，這個時候我會用書寫的方式記錄下來)
+- 我要練習在純原生的環境下來 (分配/釋放 記憶體，不依靠垃圾回收機制 (Python 除外))
+- 練習使用內建的資料型態，這樣讓我在真實世界中可以運用這些經驗 (我不會在正式環境中自己實作 linked list)
 
-You can see my code here:
+我不一定有時間完成所有的主題，但我會盡力。
+
+你可以在這裡看到我的程式碼：
  - [C](https://github.com/jwasham/practice-c)
  - [C++](https://github.com/jwasham/practice-cpp)
  - [Python](https://github.com/jwasham/practice-python)
 
-You don't need to memorize the guts of every algorithm.
+你不需要去記憶所有演算法的內部細節。
 
-Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
+嘗試在白板或紙上練習，而不是在電腦上。在測試完簡單的輸入後，到電腦上再測試一次。
 
 ## Prerequisite Knowledge
 
