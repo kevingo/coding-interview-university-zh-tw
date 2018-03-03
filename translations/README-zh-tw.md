@@ -459,18 +459,17 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 嘗試在白板或紙上練習，而不是在電腦上。在測試完簡單的輸入後，到電腦上再測試一次。
 
-## Prerequisite Knowledge
+## 先備知識
 
-- [ ] **Learn C**
-    - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
-            you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-        - [answers to questions](https://github.com/lekkas/c-algorithms)
+- [ ] **學習 C 語言**
+    - C 語言無所不在。你會在書籍、投影片或影片中看到相關的範例。當你在學習的時候，*無所不在*。
+    - [ ] [C 語言，第二卷](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+        - 這是一本輕薄的書籍，但只要你做一點練習，它就會給你很好的 C 語言相關知識。你很快就會變得熟練，了解 C 語言有助於你瞭解程式是如何和記憶體間進行運作的。
+        - [相關問題的解答](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [ ] **電腦是如何執行一個程式：**
+    - [ ] [CPU 是如何執行程式 (影片)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [ ] [機器碼說明 (影片)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
