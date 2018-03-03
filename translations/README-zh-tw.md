@@ -471,29 +471,28 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [CPU 是如何執行程式 (影片)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [ ] [機器碼說明 (影片)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
-## Algorithmic complexity / Big-O / Asymptotic analysis
-- nothing to implement
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] Skiena:
-    - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-    - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
-- [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
-- [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
-- [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
-- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
-- [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
-- [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
-- [ ] TopCoder (includes recurrence relations and master theorem):
-    - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
-    - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+## 演算法複雜度 / Big-O / 漸進分析
+- 底下無關實作部分
+- [ ] [Harvard CS50 - 漸進表示法 ((影片))](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [ ] [Big O 表示法 (通用的快速教學) (影片)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [ ] [Big O 表示法 (包含 Omega 和 Theta) - 最好的數學解釋 (影片)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [ ] Skiena：
+    - [影片](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
+    - [投影片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
+- [ ] [關於演算法複雜度的簡單介紹](http://discrete.gr/complexity/)
+- [ ] [Orders of Growth (影片)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
+- [ ] [漸進性 (影片)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
+- [ ] [UC Berkeley Big O (影片)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [ ] [UC Berkeley Big Omega (影片)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
+- [ ] [平攤分析法 (影片)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [ ] [描述 "Big O" (影片)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
+- [ ] TopCoder (包含遞迴關係與主定理)：
+    - [計算複雜度：第一節](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
+    - [計算複雜度：第二節](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
+- [ ] [速查表](http://bigocheatsheet.com/)
 
 
-    If some of the lectures are too mathy, you can jump down to the bottom and
-    watch the discrete mathematics videos to get the background knowledge.
+    如果某些內容太過於學術性，你可以直接跳到文章最後來學習離散數學，已獲得相關的背景知識。
 
 ## Data Structures
 
