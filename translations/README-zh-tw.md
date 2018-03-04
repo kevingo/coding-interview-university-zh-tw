@@ -494,44 +494,44 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     如果某些內容太過於學術性，你可以直接跳到文章最後來學習離散數學，已獲得相關的背景知識。
 
-## Data Structures
+## 資料結構
 
-- ### Arrays
-    - Implement an automatically resizing vector.
-    - [ ] Description:
-        - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-        - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
-        - [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
-        - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
-        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-        - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
-        - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
-    - [ ] Implement a vector (mutable array with automatic resizing):
-        - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [ ] new raw data array with allocated memory
-            - can allocate int array under the hood, just not use its features
-            - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
-        - [ ] size() - number of items
-        - [ ] capacity() - number of items it can hold
+- ### 陣列
+    - 實作一個可以自動調整大小的動態 vector
+    - [ ] 相關介紹：
+        - [陣列(影片) (影片)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+        - [UC Berkeley CS61B - 線性與多維陣列 (影片)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (從 15m 32s 開始看)
+        - [陣列的基本介紹 (影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
+        - [多維陣列 (影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
+        - [動態陣列 (影片)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
+        - [不規則陣列 (影片)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+        - [不規則陣列 (影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
+        - [調整陣列的大小(影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
+    - [ ] 實作一個動態 vector (可以自動調整大小的可變陣列):
+        - [ ] 練習使用陣列和指針，而且指針是透過計算去跳轉，而不是使用索引
+        - [ ] 透過分配記憶體空間來建立一個全新的陣列
+            - 可以用整數陣列來實現，但不能用語言內建的特性
+            - 從大小是 16 開始，也可以用更大的數字，記得使用 2 的倍數 - 16、32、64、128
+        - [ ] size() - 元素的數量
+        - [ ] capacity() - 可容納元素的數量
         - [ ] is_empty()
-        - [ ] at(index) - returns item at given index, blows up if index out of bounds
+        - [ ] at(index) - 給定索引，回傳該元素。若索引超過該陣列大小則回傳錯誤
         - [ ] push(item)
-        - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
-        - [ ] delete(index) - delete item at index, shifting all trailing elements left
-        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [ ] resize(new_capacity) // private function
-            - when you reach capacity, resize to double the size
-            - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Time
-        - O(1) to add/remove at end (amortized for allocations for more space), index, or update
-        - O(n) to insert/remove elsewhere
-    - [ ] Space
-        - contiguous in memory, so proximity helps performance
-        - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
+        - [ ] insert(index, item) - 在指定的索引上插入元素，並依序往後移動原本的元素
+        - [ ] prepend(item) - 在索引為 0 的地方插入元素
+        - [ ] pop() - 移除在最端的元素，並返回其值
+        - [ ] delete(index) - 刪除指定索引的元素，並依序將後面的元素往前移
+        - [ ] remove(item) - 尋找特定指定值的元素，並且移除包含他的索引 (即使有多個地方包含該值)
+        - [ ] find(item) - 尋找指定值的元素，並且回傳第一個出現該值元素的索引。如果找不到，則回傳 -1
+        - [ ] resize(new_capacity) // private 函式
+            - 當陣列達到設定的 capacity 後，則增加一倍的大小
+            - 當透過 pop 取得元素後，若大小變為其 capacity 的 1/4 時，則將大小減半
+    - [ ] 時間複雜度
+        - O(1)：在陣列的最後增加/刪除元素 (平均分攤記憶體來得到更多空間)
+        - O(n)：在陣列的任何地方插入/刪除元素
+    - [ ] 空間複雜度
+        - 因為陣列在記憶體中分配的位置相鄰，這有助於提高效能
+        - 需要的空間 = (陣列的 capacity，顧名思義要 >= n) * 元素的大小。但即使空間需要 2n，空間複雜度依舊為 O(n)
 
 - ### Linked Lists
     - [ ] Description:
