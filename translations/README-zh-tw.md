@@ -273,8 +273,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - [ ] [程式語言面試的元素 (C++ 版本)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [ ] 程式語言面試的元素 (Java 版本)
-    - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
-    - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
+    - [書籍](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
+    - [相關專案 - 書籍中的相關問題、解法與測試案例](https://github.com/gardncl/elements-of-programming-interviews)
 
 ### 電腦架構
 
