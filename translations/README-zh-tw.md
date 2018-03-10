@@ -572,26 +572,25 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [使用 Stacks 後進先出 (LIFO) (影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
     - [ ] 不包含實作，使用陣列來實作太繁瑣了。
 
-- ### Queue
-    - [ ] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
-    - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
-    - [ ] Implement using linked-list, with tail pointer:
-        - enqueue(value) - adds value at position at tail
-        - dequeue() - returns value and removes least recently added element (front)
+- ### 佇列 (Queue)
+    - [ ] [使用佇列，先進先出 (影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
+    - [ ] [佇列 (影片)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [ ] [環形緩衝區/先進先出](https://en.wikipedia.org/wiki/Circular_buffer)
+    - [ ] [優先權佇列 (影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
+    - [ ] 使用鏈結串列來實作，並包含 tail pointer：
+        - enqueue(value) - 在佇列的尾端插入元素
+        - dequeue() - 回傳佇列最前端的元素值，並將其移除
         - empty()
-    - [ ] Implement using fixed-sized array:
-        - enqueue(value) - adds item at end of available storage
-        - dequeue() - returns value and removes least recently added element
+    - [ ] 使用固定大小的陣列來實作：
+        - enqueue(value) - 在可用的儲存空間中加入元素到最後的位置
+        - dequeue() - 回傳佇列最前端的元素值，並將其移除 
         - empty()
         - full()
-    - [ ] Cost:
-        - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
-            because you'd need the next to last element, causing a full traversal each dequeue
-        - enqueue: O(1) (amortized, linked list and array [probing])
-        - dequeue: O(1) (linked list and array)
-        - empty: O(1) (linked list and array)
+    - [ ] 成本：
+        - 當你使用鏈結串列進行實作時，如果實作的不好，當你使用 enqueue 或 dequeue 來取出或放入元素時可能會需要 O(n)，因為你可能會需要遍歷整個佇列來取得倒數第二個元素。
+        - enqueue: O(1) (amortized、鏈結串列和陣列 [探察])
+        - dequeue: O(1) (鏈結串列和陣列)
+        - empty: O(1) (鏈結串列和陣列)
 
 - ### Hash table
     - [ ] Videos:
