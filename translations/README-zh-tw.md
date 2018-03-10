@@ -533,39 +533,39 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
         - 因為陣列在記憶體中分配的位置相鄰，這有助於提高效能
         - 需要的空間 = (陣列的 capacity，顧名思義要 >= n) * 元素的大小。但即使空間需要 2n，空間複雜度依舊為 O(n)
 
-- ### Linked Lists
-    - [ ] Description:
-        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
-        - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
-    - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
-            - not the whole video, just portions about Node struct and memory allocation.
-    - [ ] Linked List vs Arrays:
-        - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
-        - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-    - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-    - [ ] Gotcha: you need pointer to pointer knowledge:
-        (for when you pass a pointer to a function that may change the address where that pointer points)
-        This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
-        - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-    - [ ] implement (I did with tail pointer & without):
-        - [ ] size() - returns number of data elements in list
-        - [ ] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
-        - [ ] pop_front() - remove front item and return its value
-        - [ ] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
-        - [ ] front() - get value of front item
-        - [ ] back() - get value of end item
-        - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
-        - [ ] erase(index) - removes node at given index
+- ### 鏈結串列 (Linked Lists)
+    - [ ] 相關介紹：
+        - [ ] [單向鏈結串列 (影片)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
+        - [ ] [CS 61B - 鏈結串列 1 (影片)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
+        - [ ] [CS 61B - 鏈結串列 2 (影片)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
+    - [ ] [C 程式語言 (影片)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
+            - 不是完整的影片，只包含了 Node struct 和記憶體分配
+    - [ ] 鏈結串列 vs 陣列：
+        - [核心鏈結串列 Vs 陣列 (影片)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
+        - [真實世界的鏈結串列 Vs 陣列 (影片)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
+    - [ ] [為什麼你要避免鏈結串列 (影片)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+    - [ ] Gotcha: 你需要指針到指針的相關知識：
+        (當你將一個指針當成參數傳到函式時，可能會更改到該指針指向的位置)
+        這個內容只是為了讓你對指針到指針的概念有個大概的掌握，我其實不推薦使用這種 list 遍歷的方式，閱讀性和可維護性都不是很好。
+        - [指針到指針](https://www.eskimo.com/~scs/cclass/int/sx8.html)
+    - [ ] 實作 (我實作了有 tail pounter 和沒有的兩個版本)：
+        - [ ] size() - 回傳在串列中的元素個數
+        - [ ] empty() - 當串列是空的時，回傳 true
+        - [ ] value_at(index) - 回傳位在第 n 個索引位置的元素值 (第一個元素開始位置為 0)
+        - [ ] push_front(value) - adds an item to the front of the list 加入一個元素到串列的前麵
+        - [ ] pop_front() - 移除前一個元素並回傳其值
+        - [ ] push_back(value) - 在最後的位置加入元素
+        - [ ] pop_back() - 移除最後一個元素並回傳其值
+        - [ ] front() - 取得前一個元素的值
+        - [ ] back() - 取得後一個元素的值
+        - [ ] insert(index, value) - 在指定索引插入特定值，而目前指向該索引的元素會指向新插入的值
+        - [ ] erase(index) - 移除特定索引的節點
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ ] reverse() - reverses the list
+        - [ ] reverse() - 反轉串列
         - [ ] remove_value(value) - removes the first item in the list with this value
     - [ ] Doubly-linked List
-        - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
-        - No need to implement
+        - [描述 (影片)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
+        - 不需要實作
 
 - ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
