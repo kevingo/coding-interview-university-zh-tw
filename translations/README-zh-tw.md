@@ -568,9 +568,9 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
         - 不需要實作
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
-    - [ ] Will not implement. Implementing with array is trivial.
+    - [ ] [Stack (影片)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [ ] [使用 Stacks 後進先出 (LIFO) (影片)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
+    - [ ] 不包含實作，使用陣列來實作太繁瑣了。
 
 - ### Queue
     - [ ] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
